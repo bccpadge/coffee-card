@@ -138,6 +138,7 @@ textarea:not([rows]) {
   width: 1px;
 }
 
+/* !general styles */
 body {
   font-family: var(--ff-body);
   background-color: hsl(var(--clr-neutrral-200));
